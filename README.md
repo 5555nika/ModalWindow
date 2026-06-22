@@ -1,6 +1,6 @@
 # Modal Window App
 
-A React application demonstrating asynchronous data fetcging and modal window management.
+A React application demonstrating asynchronous data fetching and modal window management.
 
 ## Features
 
