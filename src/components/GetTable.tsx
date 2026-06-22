@@ -1,4 +1,4 @@
-import { Layout, Table } from "antd"
+import { Table } from "antd"
 import type { IUser } from "../App"
 
 export interface ITable {
